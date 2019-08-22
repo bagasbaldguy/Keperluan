@@ -1,0 +1,8 @@
+1. Bagian Import
+Bagian import adalah tempat kita mendeklarasikan atau mengimpor library yang dibutuhkan pada aplikasi.
+
+2. Bagian Main
+Bagian main adalah fungsi utama dari aplikasi yang akan menjadi entri point. Fungsi ini akan dieksekusi pertama kali saat aplikasi dibuka.
+
+3. Bagian Widget
+Bagian widget adalah tempat kita membuat widget. Aplikasi Flutter sebenarnya terdiri dari susunan widget. Widget bisa kita bilang elemen-elemen seperti Tombol, Teks, Layaout, Image, dan sebagainya.
